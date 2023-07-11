@@ -680,31 +680,6 @@ dtb-$(CONFIG_MACH_SUN8I_V3S) += \
 	sun8i-v3s-licheepi-zero.dtb
 dtb-$(CONFIG_MACH_SUN50I_H5) += \
 	sun50i-h5-repka-pi3.dtb \
-	sun50i-h5-repka-pi3-1ghz.dtb \
-	sun50i-h5-repka-pi3-1.2ghz.dtb \
-	sun50i-h5-repka-pi3-1.4ghz.dtb \
-	sun50i-h5-repka-pi3-alt-1ghz.dtb \
-	sun50i-h5-repka-pi3-alt-1.2ghz.dtb \
-	sun50i-h5-repka-pi3-alt-1.4ghz.dtb \
-	sun50i-h5-repka-pi3-alt-uart-1ghz.dtb \
-	sun50i-h5-repka-pi3-alt-uart-1.2ghz.dtb \
-	sun50i-h5-repka-pi3-alt-uart-1.4ghz.dtb \
-	sun50i-h5-repka-pi3-alt-pwm-1ghz.dtb \
-	sun50i-h5-repka-pi3-alt-pwm-1.2ghz.dtb \
-	sun50i-h5-repka-pi3-alt-pwm-1.4ghz.dtb \
-	sun50i-h5-repka-pi3-alt-i2c2-1ghz.dtb \
-	sun50i-h5-repka-pi3-alt-i2c2-1.2ghz.dtb \
-	sun50i-h5-repka-pi3-alt-i2c2-1.4ghz.dtb \
-	sun50i-h5-repka-pi3-v1.4.dtb \
-	sun50i-h5-repka-pi3-v1.4p.dtb \
-	sun50i-h5-repka-pi3-alt-v1.4.dtb \
-	sun50i-h5-repka-pi3-alt-v1.4p.dtb \
-	sun50i-h5-repka-pi3-alt-uart-v1.4.dtb \
-	sun50i-h5-repka-pi3-alt-uart-v1.4p.dtb \
-	sun50i-h5-repka-pi3-alt-pwm-v1.4.dtb \
-	sun50i-h5-repka-pi3-alt-pwm-v1.4p.dtb \
-	sun50i-h5-repka-pi3-alt-i2c2-v1.4.dtb \
-	sun50i-h5-repka-pi3-alt-i2c2-v1.4p.dtb \
 	sun50i-h5-bananapi-m2-plus.dtb \
 	sun50i-h5-emlid-neutis-n5-devboard.dtb \
 	sun50i-h5-libretech-all-h3-cc.dtb \
