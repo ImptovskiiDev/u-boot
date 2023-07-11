@@ -135,10 +135,6 @@
 	status = "okay";
 };
 
-&sound_hdmi {
-	status = "okay";
-};
-
 &ir {
 	pinctrl-names = "default";
 	pinctrl-0 = <&r_ir_rx_pin>;
